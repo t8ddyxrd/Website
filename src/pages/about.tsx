@@ -31,11 +31,11 @@ export default function About() {
         </h1>
 
         <p className="text-lg text-gray-300 leading-relaxed drop-shadow-[0_0_8px_rgba(255,255,255,0.3)]">
-          I'm Teodor Todorov — an aspiring cybersecurity analyst focused on defensive security, real-world SIEM engineering, and cloud-based detection strategies. Passionate about identifying threats and strengthening system integrity across modern infrastructures.
+          I am  Teodor Todorov — an aspiring cybersecurity analyst focused on defensive security, real-world SIEM engineering, and cloud-based detection strategies. Passionate about identifying threats and strengthening system integrity across modern infrastructures.
         </p>
 
         <p className="text-gray-400 text-sm mt-6 leading-relaxed">
-          My goal is to join a Security Operations Center (SOC) and contribute to building secure, resilient digital environments. I'm currently working on industry certifications and hands-on labs.
+          My goal is to join a Security Operations Center (SOC) and contribute to building secure, resilient digital environments. I am currently working on industry certifications and hands-on labs.
         </p>
       </motion.div>
     </main>
