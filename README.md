@@ -1,40 +1,70 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
+# 🕵️‍♂️ t8ddy.com — Cybersecurity Portfolio
 
-## Getting Started
+![t8ddy banner](https://t8ddy.com/devil_icon.png) 
 
-First, run the development server:
+## 🧠 About
+
+**t8ddy.com** is my personal cybersecurity portfolio, built to showcase my certifications, GitHub projects, and custom tools like `sN1TCH` — a CLI-based log analysis utility for Blue Team operations.
+
+This site serves as a public record of my growth, skillset, and readiness to work in real-world SOC and cyber defense roles.
+
+> _“The first win feels small. But it changes everything.”_
+
+---
+
+## 📜 Live Site
+
+🌐 [https://t8ddy.com](https://t8ddy.com)
+
+---
+
+## 🛠 Built With
+
+- **Next.js 14**
+- **Tailwind CSS**
+- **Framer Motion**
+- **TypeScript**
+- Hosted on **Vercel**
+
+---
+
+## 📂 Project Structure
 
 ```bash
+/pages        # Site pages (home, certs, projects)
+/public       # Static assets (badges, icons, etc)
+/components   # (Optional) future UI components
+
+✅ Features
+
+    ⚫️ Clean black & white cyber aesthetic
+
+    📜 Certifications section (Security+ and more)
+
+    💻 Projects section featuring live tools (e.g. sN1TCH)
+
+    🧠 Optimized for recruiters & hiring managers
+
+    💨 Fast, responsive, deployed on Vercel
+
+🧪 Running Locally
+git clone https://github.com/t8ddyxrd/portfolio.git
+cd portfolio
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+(Open http://localhost:3000 to view it locally.)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+📬 Contact
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+    📧 Email: t8ddy@protonmail.com
 
-[API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+    🌐 Website: https://t8ddy.com
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) instead of React pages.
+🖤 License
 
-This project uses [`next/font`](https://nextjs.org/docs/pages/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+This project is open source for inspiration and learning purposes.
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn-pages-router) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/pages/building-your-application/deploying) for more details.
+    
