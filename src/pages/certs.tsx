@@ -49,15 +49,14 @@ export default function Certs() {
             <p className="text-zinc-400 mt-1">Issued: August 2025</p>
             <p className="text-zinc-400">Credential ID: Available on request</p>
 
-            
-            {/ <a
+            <a
               href="https://www.credly.com/badges/71ae234c-6fe9-4d8a-ac57-7339b62a4bee/public_url"
               target="_blank"
               rel="noopener noreferrer"
               className="text-blue-400 hover:underline mt-2 inline-block"
             >
               View Certification
-            </a> */}
+            </a>
           </div>
         </div>
       </motion.div>
