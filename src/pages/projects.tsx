@@ -41,14 +41,14 @@ export default function Projects() {
             <h2 className="text-2xl font-semibold">sN1TCH 🕵️‍♂️</h2>
             <p className="text-zinc-400">
               A CLI-based log analysis tool with real-time GeoIP lookups, auto-blocking for suspicious IPs,
-              filtering by country/ISP, live monitoring, and future Discord webhook alerting.
+              filtering by country/ISP, live monitoring, and  Discord webhook alerting.
             </p>
             <ul className="list-disc list-inside text-zinc-400 mt-2">
               <li>Live log monitoring with IP detection</li>
               <li>Auto-block IPs via UFW/IPTables using <code>--block</code></li>
               <li>GeoIP + ISP info from logs</li>
               <li>Export data with <code>--save</code></li>
-              <li>Upcoming: Discord alerts via webhooks</li>
+              <li>Discord alerts via webhooks</li>
             </ul>
             <a
               href="https://github.com/t8ddyxrd/sN1TCH"
