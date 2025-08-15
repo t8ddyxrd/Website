@@ -84,7 +84,7 @@ export default function Projects() {
               <li>Clean, GitHub-ready README with images</li>
             </ul>
             <a
-              href="https://github.com/t8ddyxrd/ad-lab" // ← replace if your repo slug differs
+              href="https://github.com/t8ddyxrd/AD-Homemade-Lab" // 
               target="_blank"
               rel="noopener noreferrer"
               className="text-blue-400 hover:underline mt-3"
