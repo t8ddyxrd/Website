@@ -69,7 +69,7 @@ export default function Certs() {
       >
         <div className="flex flex-col md:flex-row items-center md:items-start gap-6">
           <Image
-            src="/btl1.svg" 
+            src="/btl1badge.png" 
             alt="Blue Team Level 1 Badge"
             width={70}
             height={70}
